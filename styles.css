@@ -1,0 +1,4 @@
+.buttons {
+    display: flex; /* Use flexbox layout for easier spacing */
+    gap: 35px; /* Set the gap between elements to 35px */
+  }
